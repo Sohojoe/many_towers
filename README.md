@@ -1,5 +1,5 @@
 # many-towers 
-
+Example of how to spawn multiple instances of [obstacle-tower-env](https://github.com/Unity-Technologies/obstacle-tower-env/issues)
 
 # install
 
@@ -23,7 +23,7 @@ conda activate many_towers
 | Linux (x86_64) | https://storage.googleapis.com/obstacle-tower-build/v2.1/obstacletower_v2.1_linux.zip   |
 | Mac OS X       | https://storage.googleapis.com/obstacle-tower-build/v2.1/obstacletower_v2.1_osx.zip     |
 | Windows        | https://storage.googleapis.com/obstacle-tower-build/v2.1/obstacletower_v2.1_windows.zip |
-
+```
 
 # Usage
 ```
